@@ -1,6 +1,6 @@
 # ⭐ UPDATE 2.0.2 ⭐
 
-# The installation of version 2.0.2 requires the deactivation of Windows Defender.
+# ❗❗ The installation of version 2.0.2 requires the deactivation of Windows Defender.
 
 ## Chrome, Windows Defender issues
 Dear all users,
