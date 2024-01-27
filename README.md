@@ -14,3 +14,5 @@ Versions 1.9.9 and 2.0.1 will not require the source of LOCALAPPDATA and **will*
 Thank you for your time and consideration - I will update you all as new information arises.
 
 James
+
+## Video demonstration: https://youtu.be/HrJS9HDE-yg
