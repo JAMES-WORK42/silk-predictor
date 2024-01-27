@@ -15,4 +15,12 @@ Thank you for your time and consideration - I will update you all as new informa
 
 James
 
-## Video demonstration: https://youtu.be/HrJS9HDE-yg
+## Gallery
+
+![crash-example](https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/b011d1a1-e67d-45e5-866d-10cf3b9f8602)
+
+![mines-example](https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/6b24fdf8-3256-4150-a2be-765733c11c18)
+
+![towers-example](https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/401cf591-2a87-499a-9fc0-9a9b2c0eb944)
+
+![roll-example](https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/2baaf356-fc55-462f-89d9-52ff204ceb92)
