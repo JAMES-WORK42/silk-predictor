@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## It is recommended that you disable any running anti-virus software before installation.
+## ❗❗ It is required that you disable any running anti-virus software before installation.
 
 ## Express Installation
 You will need to disable any active anti-virus software before installation.  Silk sources information from your web browser which can sometimes result in a false detection.
