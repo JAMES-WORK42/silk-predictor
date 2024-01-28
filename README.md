@@ -3,7 +3,7 @@
   <img src=https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/40d2451d-bc01-4603-a7e9-a0afb25b7651" alt="Silk" />
 </p>
 
-  <h1 align="center">Silk Tool</h1>
+  <h1 align="center">Silk Predictor</h1>
 <p align="center">
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
