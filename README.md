@@ -1,7 +1,8 @@
   </a>
   <p align="center">
-  <img src=https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/40d2451d-bc01-4603-a7e9-a0afb25b7651" alt="Silk" />
+  <img src=https://github.com/JAMES-WORK42/silk-predictor/assets/64102856/30307e3b-4d23-4d03-937a-ddad48006c71" alt="Silk" />
 </p>
+
 
   <h1 align="center">Silk Predictor</h1>
 <p align="center">
